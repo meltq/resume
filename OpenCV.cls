@@ -35,7 +35,6 @@ anchorcolor = myred]{hyperref}
 \renewcommand\headrulewidth{0pt}
 \fancyhf{}
 \pagestyle{fancy}
-\cfoot{\makebox[\textwidth][c]{Tejas Vipin - CV}}
 \rfoot{\makebox[\textwidth][r]{\thepage /\pageref*{LastPage}}}
 
 % Set the page margins
